@@ -39,9 +39,11 @@
 * sysadmin
 * store manager
 * store director
+
 ------------
 ## Language:
 * Native Russian
 * English A1 (I keep learning)
 * French А1 
+
 ------------
