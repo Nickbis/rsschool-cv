@@ -32,7 +32,8 @@
 * Belarusian-Russian University
    - AUTOMATED ELECTRIC DRIVE - electrical engineer
 * Belarusian State University
-   - MBA 
+   - MBA
+    
 -----------
 ## Work experience
 * repair engineer
@@ -44,6 +45,6 @@
 ## Language:
 * Native Russian
 * English A1 (I keep learning)
-* French А1 
+* French А1
 
 ------------
